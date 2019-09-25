@@ -1,4 +1,4 @@
-# Abalone project
+## Abalone project
 
 In this project I will try to solve following problem:
 > _"Currently biological scientists determine age of abalones counting the number of rings in its' shell with a microscope. At first, they have to open every abalone, use some chemicals and wait when the rings will be visible. So, this is a time consuming process, which involves additional costs (chemicals, pipette tips etc.). To improve process of determining abalones' age try to find another method using collected data."_
